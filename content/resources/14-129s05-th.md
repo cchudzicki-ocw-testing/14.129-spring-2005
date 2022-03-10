@@ -7,7 +7,8 @@ image_metadata:
   caption: "Named after the famous tulip bulb auctions of the Netherlands in the 17th\
     \ century, a Dutch auction proceeds by\_reducing the price until a buyer is found.\
     \ To learn more about this type of auction, please see lecture 4 in the [lecture\
-    \ notes](pages/lecture-notes) of this course. (Image courtesy of Aayesha Siddiqui.)"
+    \ notes](/courses/14-129-advanced-contract-theory-spring-2005/pages/lecture-notes)\
+    \ of this course. (Image courtesy of Aayesha Siddiqui.)"
   credit: ''
   image-alt: Purple tulip in foreground, yellow tulip in background.
 learning_resource_types: []
